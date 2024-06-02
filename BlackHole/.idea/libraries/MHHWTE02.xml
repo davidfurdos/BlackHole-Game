@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MHHWTE02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MHHWTE02.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
